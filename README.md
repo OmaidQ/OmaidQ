@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-- Currently studying in Trinity College Dublin<br> - In 3rd Year of Master's in Integrated Computer Science
+- Currently studying in Trinity College Dublin<br> * In 3rd Year of Master's in Integrated Computer Science
 
 
 ## 🌐 Socials:
