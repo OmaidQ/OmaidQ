@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # 💻 About Me:
 ⚡ Hi my name is Muhammad Omaid Qureshi<br>⚡ Pursuing Master's Degree in Integrated Computer Science<br>⚡ Studying at Trinity College Dublin<br>⚡ Currently in Third Year<br>
 
