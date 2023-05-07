@@ -1,5 +1,5 @@
 # 💻 About Me:
-⚡ Hi my name is Muhammad Omaid Qureshi<br>⚡ Pursuing Master's Degree in Integrated Computer Science<br>⚡ Studying at Trinity College Dublin<br>⚡ Currently in Third Year<br>
+⚡ Hi my name is Omaid Qureshi<br>⚡ Pursuing Bachelors/Masters in Integrated Computer Science<br>⚡ Studying at Trinity College Dublin<br>⚡ Currently in Third Year<br>
 
 
 ## 🌐 Socials:
@@ -15,4 +15,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=OmaidQ&icon=9&color=7)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
