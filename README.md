@@ -1,5 +1,5 @@
 # 💻 About Me:
-⚡ Hi my name is Omaid Qureshi<br>⚡ Pursuing Bachelors/Masters in Integrated Computer Science<br>⚡ Studying at Trinity College Dublin<br>⚡ Currently in Third Year<br>
+⚡ Hi my name is Omaid Qureshi<br>⚡ Pursuing Bachelors/Masters in Integrated Computer Science<br>⚡ Studying at Trinity College Dublin<br>⚡ Currently in Fourth Year<br>
 
 
 ## 🌐 Socials:
